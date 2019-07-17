@@ -3,4 +3,4 @@ name = strowan_recipes
 themes = lektor-theme-simple-strap
 
 [servers.ghpages]
-target = ghpages+https://s0288.github.io/strowan_recipes/
+target = ghpages+https://s0288/strowan_recipes/
