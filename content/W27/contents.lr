@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Brot mit Quark (V)
+<a href="/strowan_recipes/W27/brot_mit_quark">
+(20 Min, 11 Port., F: 29g, K: 3g, E: 13g)
+<img src="brot_mit_quark/brot_mit_quark.jpg" width=300 alt="brot_mit_quark.jpg">
+</a>
+
+
+### Pfannkuchen mit Heidelbeeren (V+)
+<a href="/strowan_recipes/W27/pfannkuchen_mit_heidelbeeren">
+(15 Min., 2 Port., F: 8 g, K: 5 g, E: 27 g)
+<img src="pfannkuchen_mit_heidelbeeren/pfannkuchen_mit_heidelbeeren.jpg" width=300 alt="pfannkuchen_mit_heidelbeeren.jpg">
+</a>
+---
+right:
+
+### Schweinebauch mit Rosenkohl
+<a href="/strowan_recipes/W27/schweinebauch_mit_rosenkohl">
+(20 Min., 4 Port., F: 97 g, K: 7 g, E: 19 g)
+<img src="schweinebauch_mit_rosenkohl/schweinebauch_mit_rosenkohl.png" width=300 alt="schweinebauch_mit_rosenkohl.png">
+</a>
+
+### Ofen-Camembert mit Nüssen (V)
+<a href="/strowan_recipes/W27/ofen_camembert_mit_nuessen">
+(5 Min, 4 Port., F: 31g, K: 1g, E: 14g)
+<img src="ofen_camembert_mit_nuessen/ofen_camembert_mit_nuessen.png" width=300 alt="ofen_camembert_mit_nuessen.png">
+</a>
