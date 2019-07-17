@@ -6,7 +6,7 @@
 }
 
 .site-header-name {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 .site-header-name:hover {
@@ -49,4 +49,8 @@
   color: #919aa1;
   text-align: center;
   background-color: #f7f7f9;
+}
+
+img {
+    width: 300px;
 }
