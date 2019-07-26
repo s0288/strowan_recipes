@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Keto Burger
+<a href="/strowan_recipes/W30/keto_burger">
+(60 Min, 4 Port., F: 87 g, K: 6 g, E: 54 g)
+<img src="keto_burger/keto_burger.png" alt="keto_burger.png">
+</a>
+
+### Rotes Kokos-Curry (V+)
+<a href="/strowan_recipes/W30/rotes_kokos_curry">
+(15 Min, 2 Port., F: 80 g, K: 13 g, E: 8 g)
+<img src="rotes_kokos_curry/rotes_kokos_curry.png" alt="rotes_kokos_curry.png">
+</a>
+
+---
+right:
+
+### Hühnerleber mit Grünkohl
+<a href="/strowan_recipes/W30/huehnerleber_mit_gruenkohl">
+(10 Min, 1 Port.)
+<img src="huehnerleber_mit_gruenkohl/huehnerleber_mit_gruenkohl.png" alt="huehnerleber_mit_gruenkohl.png">
+</a>
+
+### Grünkohlsuppe (V+)
+<a href="/strowan_recipes/W30/gruenkohlsuppe">
+(10 Min., 4 Port., F: 86 g, K: 14 g, E: 11 g)
+<img src="gruenkohlsuppe/gruenkohlsuppe.png" alt="gruenkohlsuppe.png">
+</a>
