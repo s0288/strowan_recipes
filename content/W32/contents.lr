@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Hähnchenbrust mit Bohnen
+<a href="/strowan_recipes/W32/haehnchenbrust_mit_bohnen">
+(20 Min., 1 Port., F: 20 g, K: 6 g, E: 49 g)
+<img src="haehnchenbrust_mit_bohnen/haehnchenbrust_mit_bohnen.jpg" alt="haehnchenbrust_mit_bohnen">
+</a>
+
+### Hühnerleber in Pilzsauce
+<a href="/strowan_recipes/W32/huehnerleber_in_pilzsauce">
+(30 Min., 4 Port., F: 84 g, K: 15 g, E: 33 g)
+<img src="huehnerleber_in_pilzsauce/huehnerleber_in_pilzsauce.png" alt="huehnerleber_in_pilzsauce">
+</a>
+
+---
+right:
+
+### Avocado-Salat mit Mozzarella (V)
+<a href="/strowan_recipes/W32/avocado_salat_mit_mozzarella">
+(10 Min., 1 Port., F: 34 g, K: 5 g, E: 8 g)
+<img src="avocado_salat_mit_mozzarella/avocado_salat_mit_mozzarella.jpg" alt="avocado_salat_mit_mozzarella.jpg">
+</a>
+
+### Blumenkohlsuppe (V+)
+<a href="/strowan_recipes/W32/blumenkohlsuppe">
+(40 Min., 4 Port., F: 8 g, K: 14 g, E: 7 g)
+<img src="blumenkohlsuppe/blumenkohlsuppe.jpg" alt="blumenkohlsuppe">
+</a>

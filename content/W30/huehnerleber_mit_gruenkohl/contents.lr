@@ -7,13 +7,14 @@ _template: page_one_column.html
 body:
 
 # Hühnerleber mit Grünkohl
-(10 Min, 1 Port.)
+(10 Min., 1 Port.)
 
 <img src="huehnerleber_mit_gruenkohl.png" alt="huehnerleber_mit_gruenkohl.png">
 
 ### Zutaten
 Für die Leber:
 * 150 g Hühnerleber, 1 Zwiebel, 2 TL Butter, Salz & Pfeffer
+
 Für den Salat:
 * 150 g junger Grünkohl (alternativ: Grünkohl), 2 TL Apfelessig, Salz & Pfeffer
 

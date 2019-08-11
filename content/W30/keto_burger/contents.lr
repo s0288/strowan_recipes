@@ -7,7 +7,7 @@ _template: page_one_column.html
 body:
 
 # Keto Burger
-(60 Min, 4 Port., F: 87 g, K: 6 g, E: 54 g)
+(60 Min., 4 Port., F: 87 g, K: 6 g, E: 54 g)
 
 <img src="keto_burger.png" alt="keto_burger.png">
 

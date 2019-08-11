@@ -4,18 +4,28 @@ _template: page_two_column.html
 ---
 left:
 
+### W32
+<a href="/strowan_recipes/W32">
+<img src="W32/haehnchenbrust_mit_bohnen/haehnchenbrust_mit_bohnen.jpg" alt="haehnchenbrust_mit_bohnen">
+</a>
+
+### W31
+<a href="/strowan_recipes/W31">
+<img src="W31/knochenbruehe/knochenbruehe.png" alt="knochenbruehe.png">
+</a>
+
 ### W30
 <a href="/strowan_recipes/W30">
 <img src="W30/keto_burger/keto_burger.png" alt="keto_burger.png">
 </a>
 
+---
+right:
+
 ### W29
 <a href="/strowan_recipes/W29">
 <img src="W29/chicken_curry/chicken_curry.jpg" alt="chicken_curry.jpg">
 </a>
-
----
-right:
 
 ### W28
 <a href="/strowan_recipes/W28">

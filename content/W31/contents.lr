@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Knochenbrühe
+<a href="/strowan_recipes/W31/knochenbruehe">
+(10 Stunden, 4 Port., F: 7 g, K: 0 g, E: 0 g)
+<img src="knochenbruehe/knochenbruehe.png" alt="knochenbruehe.png">
+</a>
+
+### Zucchini-Hühner-Wok
+<a href="/strowan_recipes/W31/zucchini_huehnerwok">
+(20 Min., 4 Port., F: 49 g, K: 12 g, E: 34 g)
+<img src="zucchini_huehnerwok/zucchini_huehnerwok.png" alt="zucchini_huehnerwok.png">
+</a>
+
+---
+right:
+
+### Köttbullar
+<a href="/strowan_recipes/W31/koettbullar">
+(30 Min., 4 Port., F: 66 g, K: 9 g, E: 31 g)
+<img src="koettbullar/koettbullar.png" alt="koettbullar.png">
+</a>
+
+### Brokkoli- & Blumenkohlauflauf
+<a href="/strowan_recipes/W31/brokkoli_blumenkohlauflauf">
+(20 Min., 6 Port., F: 42 g, K: 12 g, E: 18 g)
+<img src="brokkoli_blumenkohlauflauf/brokkoli_blumenkohlauflauf.png" alt="brokkoli_blumenkohlauflauf.png">
+</a>
