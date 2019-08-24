@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### W34
+<a href="/strowan_recipes/W34">
+<img src="W34/lachs_mit_avocado/lachs_mit_avocado.png" alt="lachs_mit_avocado">
+</a>
+
 ### W32
 <a href="/strowan_recipes/W32">
 <img src="W32/haehnchenbrust_mit_bohnen/haehnchenbrust_mit_bohnen.jpg" alt="haehnchenbrust_mit_bohnen">

@@ -1,0 +1,33 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Lachs mit Avocado
+<a href="/strowan_recipes/W34/lachs_mit_avocado">
+(25 Min., 4 Port., F: 48 g, K: 6 g, E: 37 g)
+<img src="lachs_mit_avocado/lachs_mit_avocado.png" alt="lachs_mit_avocado">
+</a>
+
+### Wok-Geschnetzeltes
+<a href="/strowan_recipes/W34/wok_geschnetzeltes">
+(30 Min., 4 Port., F: 84 g, K: 15 g, E: 33 g)
+<img src="wok_geschnetzeltes/wok_geschnetzeltes.png" alt="wok_geschnetzeltes">
+</a>
+
+---
+right:
+
+### Harissa-Garnelen
+<a href="/strowan_recipes/W34/harissa_garnelen">
+(15 Min., 2 Port., F: 22 g, K: 4 g, E: 32 g)
+<img src="harissa_garnelen/harissa_garnelen.png" alt="harissa_garnelen">
+</a>
+
+### Caldo Verde (V+)
+<a href="/strowan_recipes/W34/caldo_verde">
+(30 Min., 4 Port.)
+<img src="caldo_verde/caldo_verde.png" alt="caldo_verde">
+</a>
+
