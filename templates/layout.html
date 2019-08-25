@@ -35,7 +35,7 @@
     <!-- NAVIGATION -->
     <div class="container nav-bar">
       <div class="row nav">
-        {% for href, title in [ ['/', 'Überblick'] ] %}
+        {% for href, title in [ ['/', 'Überblick'], ['/alle-rezepte', 'Alle Rezepte'] ] %}
           <a class="col-md-auto p-2" href="{{ href|url }}">{{ title }}</a>
         {% endfor %}
       </div>
