@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### W36
+<a href="/strowan_recipes/W36">
+<img src="W36/gruene_sosse_mit_eiern/gruene_sosse_mit_eiern.png" alt="gruene_sosse_mit_eiern">
+</a>
+
 ### W34
 <a href="/strowan_recipes/W34">
 <img src="W34/lachs_mit_avocado/lachs_mit_avocado.png" alt="lachs_mit_avocado">
@@ -19,13 +24,13 @@ left:
 <img src="W31/knochenbruehe/knochenbruehe.png" alt="knochenbruehe.png">
 </a>
 
+---
+right:
+
 ### W30
 <a href="/strowan_recipes/W30">
 <img src="W30/keto_burger/keto_burger.png" alt="keto_burger.png">
 </a>
-
----
-right:
 
 ### W29
 <a href="/strowan_recipes/W29">

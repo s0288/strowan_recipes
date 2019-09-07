@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Grüne Soße mit Eiern (V)
+<a href="/strowan_recipes/W36/gruene_sosse_mit_eiern">
+(25 Min., 4 Port.)
+<img src="gruene_sosse_mit_eiern/gruene_sosse_mit_eiern.png" alt="gruene_sosse_mit_eiern">
+</a>
+
+### Huhn mit Brokkoli
+<a href="/strowan_recipes/W36/huhn_mit_brokkoli">
+(10 Min, 2 Port., F: 66 g, K: 5 g, E: 29 g)
+<img src="huhn_mit_brokkoli/huhn_mit_brokkoli.png" alt="huhn_mit_brokkoli">
+</a>
+
+---
+right:
+
+### Shakshouka (V)
+<a href="/strowan_recipes/W36/shakshouka">
+(15 Min, 2 Port., F: 34 g, K: 4 g, E: 35 g)
+<img src="shakshouka/shakshouka.png" alt="shakshouka">
+</a>
+
+### Tomatensuppe (V)
+<a href="/strowan_recipes/W36/tomatensuppe">
+(45 Min, 4 Port., F: 20 g, K: 6 g, E: 7 g)
+<img src="tomatensuppe/tomatensuppe.png" alt="tomatensuppe">
+</a>
