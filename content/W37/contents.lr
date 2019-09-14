@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Hühnerleber mit Apfelsalat
+<a href="/strowan_recipes/W37/huehnerleber_mit_apfelsalat">
+(15 Min., 2 Port., F: 35 g, K: 15 g, E: 40 g)
+<img src="huehnerleber_mit_apfelsalat/huehnerleber_mit_apfelsalat.png" alt="huehnerleber_mit_apfelsalat">
+</a>
+
+### Pad Thai
+<a href="/strowan_recipes/W37/pad_thai">
+(20 Min., 4 Port., F: 12 g, K: 7 g, E: 30 g)
+<img src="pad_thai/pad_thai.png" alt="pad_thai">
+</a>
+
+---
+right:
+
+### Pilzpfanne mit Rahmsauce (V) 
+<a href="/strowan_recipes/W37/pilzpfanne_mit_rahmsauce">
+(15 Min., 1 Port., F: 39 g, KH 11 g, E: 10 g)
+<img src="pilzpfanne_mit_rahmsauce/pilzpfanne_mit_rahmsauce.png" alt="pilzpfanne_mit_rahmsauce">
+</a>
+
+### Thai-Kokosnuss-Suppe (V+) 
+<a href="/strowan_recipes/W37/thai_kokosnuss_suppe">
+(30 Min, 1 Port., F: 36 g, K: 10 g, E: 3 g)
+<img src="thai_kokosnuss_suppe/thai_kokosnuss_suppe.png" alt="thai_kokosnuss_suppe">
+</a>
