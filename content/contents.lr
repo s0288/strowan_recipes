@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### W38
+<a href="/strowan_recipes/W38">
+<img src="W38/kuerbissalat/kuerbissalat.png" alt="kuerbissalat">
+</a>
+
 ### W37
 <a href="/strowan_recipes/W37">
 <img src="W37/huehnerleber_mit_apfelsalat/huehnerleber_mit_apfelsalat.png" alt="huehnerleber_mit_apfelsalat">
@@ -24,13 +29,13 @@ left:
 <img src="W32/haehnchenbrust_mit_bohnen/haehnchenbrust_mit_bohnen.jpg" alt="haehnchenbrust_mit_bohnen">
 </a>
 
+---
+right:
+
 ### W31
 <a href="/strowan_recipes/W31">
 <img src="W31/knochenbruehe/knochenbruehe.png" alt="knochenbruehe.png">
 </a>
-
----
-right:
 
 ### W30
 <a href="/strowan_recipes/W30">
