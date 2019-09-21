@@ -7,7 +7,7 @@ _template: page_one_column.html
 body:
 
 # Kürbissuppe (V+)
-(20 Min, 3 Port., F: 20 g, K: 13 g, E: 8 g)
+(20 Min., 3 Port., F: 20 g, K: 13 g, E: 8 g)
 
 <img src="kuerbissuppe.png" alt="kuerbissuppe">
 

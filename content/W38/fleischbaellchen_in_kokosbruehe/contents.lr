@@ -7,7 +7,7 @@ _template: page_one_column.html
 body:
 
 # Fleischbällchen in Kokosbrühe 
-(30 Min, 4 Port., F: 48 g, K: 4 g, E: 24 g)
+(30 Min., 4 Port., F: 48 g, K: 4 g, E: 24 g)
 
 <img src="fleischbaellchen_in_kokosbruehe.png" alt="fleischbaellchen_in_kokosbruehe">
 

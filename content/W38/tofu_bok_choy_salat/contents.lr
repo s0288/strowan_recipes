@@ -7,7 +7,7 @@ _template: page_one_column.html
 body:
 
 # Tofu-Bok-Choy Salat (V+)
-(30 Min, 3 Port., F: 30 g, K: 7 g, E: 24 g)
+(30 Min., 3 Port., F: 30 g, K: 7 g, E: 24 g)
 
 <img src="tofu_bok_choy_salat.png" alt="tofu_bok_choy_salat">
 

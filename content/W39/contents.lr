@@ -1,0 +1,33 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Lachs mit Sternfrucht
+<a href="/strowan_recipes/W39/lachs_mit_sternfrucht">
+(20 Min., 4 Port., F: 8 g, K: 2 g, E: 22 g)
+<img src="lachs_mit_sternfrucht/lachs_mit_sternfrucht.png" alt="lachs_mit_sternfrucht">
+</a>
+
+### Kohlpfanne mit Hackfleisch 
+<a href="/strowan_recipes/W39/kohlpfanne_mit_hackfleisch">
+(15 Min., 2 Port., F: 35 g, K: 15 g, E: 40 g)
+<img src="kohlpfanne_mit_hackfleisch/kohlpfanne_mit_hackfleisch.png" alt="kohlpfanne_mit_hackfleisch">
+</a>
+
+---
+right:
+
+### Grünkohl-Avocado Salat (V+) 
+<a href="/strowan_recipes/W39/gruenkohl_avocado_salat">
+(15 Min., 4 Port., F: 10 g, K: 10 g, E: 3 g)
+<img src="gruenkohl_avocado_salat/gruenkohl_avocado_salat.png" alt="gruenkohl_avocado_salat">
+</a>
+
+### Matcha-Chia-Pudding (V+)
+<a href="/strowan_recipes/W39/matcha_chia_pudding">
+(5 Min, 4 Port., F: 20 g, K: 3 g, E: 8 g)
+<img src="matcha_chia_pudding/matcha_chia_pudding.png" alt="matcha_chia_pudding">
+</a>
+
