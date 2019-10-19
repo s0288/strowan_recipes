@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### W42
+<a href="/strowan_recipes/W42">
+<img src="W42/gulasch_mit_blumenkohlpueree/gulasch_mit_blumenkohlpueree.png" alt="gulasch_mit_blumenkohlpueree">
+</a>
+
 ### W41
 <a href="/strowan_recipes/W41">
 <img src="W41/zucchini_caprese_mit_huhn/zucchini_caprese_mit_huhn.png" alt="zucchini_caprese_mit_huhn">
@@ -34,13 +39,13 @@ left:
 <img src="W36/gruene_sosse_mit_eiern/gruene_sosse_mit_eiern.png" alt="gruene_sosse_mit_eiern">
 </a>
 
+---
+right:
+
 ### W34
 <a href="/strowan_recipes/W34">
 <img src="W34/lachs_mit_avocado/lachs_mit_avocado.png" alt="lachs_mit_avocado">
 </a>
-
----
-right:
 
 ### W32
 <a href="/strowan_recipes/W32">

@@ -4,6 +4,12 @@ _template: page_two_column.html
 ---
 left:
 
+### Auberginen-Pizza
+<a href="/strowan_recipes/W42/auberginen_pizza">
+(60 Min, 4 Port., F: 51 g, K: 13 g, E: 38 g)
+<img src="/strowan_recipes/W42/auberginen_pizza/auberginen_pizza.png" alt="auberginen_pizza">
+</a>
+
 ### Avocado-Mangoldsalat (V+)
 <a href="/strowan_recipes/W29/avocado_mangoldsalat">
 (10 Min., 2 Port., F: 62 g, K: 11 g, E: 15 g)
@@ -26,6 +32,12 @@ left:
 <a href="/strowan_recipes/W32/blumenkohlsuppe">
 (40 Min., 4 Port., F: 8 g, K: 14 g, E: 7 g)
 <img src="/strowan_recipes/W32/blumenkohlsuppe/blumenkohlsuppe.png" alt="blumenkohlsuppe">
+</a>
+
+### Brokkolireis-Salat (V+) 
+<a href="/strowan_recipes/W42/brokkolireis_salat">
+(10 Min, 2 Port., F: 10 g, K: 10 g, E: 4 g)
+<img src="/strowan_recipes/W42/brokkolireis_salat/brokkolireis_salat.png" alt="brokkolireis_salat">
 </a>
 
 ### Brokkoli- & Blumenkohlauflauf
@@ -80,6 +92,12 @@ left:
 <a href="/strowan_recipes/W30/gruenkohlsuppe">
 (10 Min., 4 Port., F: 86 g, K: 14 g, E: 11 g)
 <img src="/strowan_recipes/W30/gruenkohlsuppe/gruenkohlsuppe.png" alt="gruenkohlsuppe.png">
+</a>
+
+### Gulasch mit Blumenkohlpüree
+<a href="/strowan_recipes/W42/gulasch_mit_blumenkohlpueree">
+(90 Min, 4 Port., F: 47 g, K: 11 g, E: 34 g)
+<img src="/strowan_recipes/W42/gulasch_mit_blumenkohlpueree/gulasch_mit_blumenkohlpueree.png" alt="gulasch_mit_blumenkohlpueree">
 </a>
 
 ### Hähnchenbrust mit Bohnen
@@ -302,6 +320,12 @@ left:
 <a href="/strowan_recipes/W29/ziegenburger_mit_zucchini_pommes">
 (25 Min., 4 Port., F: 113g, K: 10g, E: 66g)
 <img src="/strowan_recipes/W29/ziegenburger_mit_zucchini_pommes/ziegenburger_mit_zucchini_pommes.png" alt="ziegenburger_mit_zucchini_pommes.png">
+</a>
+
+### Zitronen-Shrimps mit Brokkolini 
+<a href="/strowan_recipes/W42/zitronen_shrimps_mit_brokkolini">
+(20 Min, 2 Port., F: 14 g, K: 9 g, E: 45 g)
+<img src="/strowan_recipes/W42/zitronen_shrimps_mit_brokkolini/zitronen_shrimps_mit_brokkolini.png" alt="zitronen_shrimps_mit_brokkolini">
 </a>
 
 ### Zucchini Caprese mit Huhn 
