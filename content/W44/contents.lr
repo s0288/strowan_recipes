@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Spinatknödel (V) 
+<a href="/strowan_recipes/W44/spinatknoedel">
+(30 Min, 2 Port., F: 24 g, K: 7 g, E: 24 g)
+<img src="spinatknoedel/spinatknoedel.png" alt="spinatknoedel">
+</a>
+
+### Gegrillte Hähnchenspieße 
+<a href="/strowan_recipes/W44/gegrillte_haehnchenspiesse">
+(20 Min, 6 Port., F: 8 g, K: 3 g, E: 23 g)
+<img src="gegrillte_haehnchenspiesse/gegrillte_haehnchenspiesse.png" alt="gegrillte_haehnchenspiesse">
+</a>
+
+---
+right:
+
+### Spiegelei mit Bacon
+<a href="/strowan_recipes/W44/spiegelei_mit_bacon">
+(10 Min., 1 Port., F: 22 g, K: 1 g, E: 15 g)
+<img src="spiegelei_mit_bacon/spiegelei_mit_bacon.png" alt="spiegelei_mit_bacon">
+</a>
+
+### Brokkoli-Käse Quiche (V) 
+<a href="/strowan_recipes/W44/brokkoli_kaese_quiche">
+(40 Min, 6 Port., F: 12 g, K: 3 g, E: 13 g)
+<img src="brokkoli_kaese_quiche/brokkoli_kaese_quiche.png" alt="brokkoli_kaese_quiche">
+</a>
