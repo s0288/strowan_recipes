@@ -1,0 +1,25 @@
+_model: page
+---
+title:
+---
+_template: page_one_column.html
+---
+body:
+
+# Schinken-Sushi 
+(30 Min, 3 Port.)
+
+<img src="schinken_sushi.png" alt="schinken_sushi">
+
+### Zutaten
+* 6 Schinkenstreifen, 2 Salatgurken, 2 Karotten, 1 Avocado, 120 g Frischkäse, 2 TL Sesamsamen 
+
+### Zubereitung
+* Ofen auf 180°C vorheizen. 
+* Schinkenstreifen halbieren und im Ofen ca. 10 Minuten backen.
+* Gurken, Karotten und Avocado in Stifte, die ungefähr so lang wie der Schinken breit ist, schneiden.
+* Wenn der Schinken etwas abgekühlt hat, mit Frischkäse bestreichen und Gemüse gleichmäßig auf die Schinkenhälften verteilen.
+* Schinken mit Frischkäse und Gemüsestiften aufrollen.
+* Mit Sesam garnieren.
+
+Originalrezept unter: [Delish.com](https://www.delish.com/cooking/recipe-ideas/a26409980/keto-bacon-sushi-recipe/)

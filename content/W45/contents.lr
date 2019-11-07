@@ -1,0 +1,33 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Toskana-Garnelen 
+<a href="/strowan_recipes/W45/toskana_garnelen">
+(30 Min, 3 Port., F: 44 g, K: 6 g, E: 22 g)
+<img src="toskana_garnelen.png" alt="toskana_garnelen">
+</a>
+
+### Schinken-Sushi 
+<a href="/strowan_recipes/W45/schinken_sushi">
+(30 Min, 3 Port.)
+<img src="schinken_sushi/schinken_sushi.png" alt="schinken_sushi">
+</a>
+
+
+---
+right:
+
+### Keto Gnocchi (V) 
+<a href="/strowan_recipes/W45/keto_gnocchi">
+(30 Min, 3 Port., F: 44 g, K: 6 g, E: 22 g)
+<img src="keto_gnocchi/keto_gnocchi.png" alt="keto_gnocchi">
+</a>
+
+### Gebackener Kohl (V) 
+<a href="/strowan_recipes/W45/gebackener_kohl">
+(30 Min, 4 Port., F: 35 g, K: 8 g, E: 3 g)
+<img src="gebackener_kohl/gebackener_kohl.png" alt="gebackener_kohl">
+</a>

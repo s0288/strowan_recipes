@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### W45
+<a href="/strowan_recipes/W45">
+<img src="W45/toskana_garnelen/toskana_garnelen.png" alt="toskana_garnelen">
+</a>
+
 ### W44
 <a href="/strowan_recipes/W44">
 <img src="W44/spinatknoedel/spinatknoedel.png" alt="spinatknoedel">
