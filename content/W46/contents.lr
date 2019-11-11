@@ -1,0 +1,32 @@
+_model: page_two_column_markdown
+---
+_template: page_two_column.html
+---
+left:
+
+### Frikadellen mit Zwiebeln und Rosenkohl 
+<a href="/strowan_recipes/W46/frikadellen_mit_zwiebeln_und_rosenkohl">
+(30 Min, 4 Port., F: 67 g, K: 12 g, E: 39 g)
+<img src="frikadellen_mit_zwiebeln_und_rosenkohl/frikadellen_mit_zwiebeln_und_rosenkohl.png" alt="frikadellen_mit_zwiebeln_und_rosenkohl">
+</a>
+
+### Ziegenkäse mit Balsamico-Butter (V) 
+<a href="/strowan_recipes/W46/ziegenkaese_mit_balsamico_butter">
+(10 Min, 2 Port., F: 73 g, K: 3 g, E: 37 g)
+<img src="ziegenkaese_mit_balsamico_butter/ziegenkaese_mit_balsamico_butter.png" alt="ziegenkaese_mit_balsamico_butter">
+</a>
+
+---
+right:
+
+### Frittierter Kohl mit Schinken 
+<a href="/strowan_recipes/W46/frittierter_kohl_mit_schinken">
+(15 Min, 2 Port., F: 79 g, K: 9 g, E: 21 g)
+<img src="frittierter_kohl_mit_schinken/frittierter_kohl_mit_schinken.png" alt="frittierter_kohl_mit_schinken">
+</a>
+
+### Eier mit Hackfleisch 
+<a href="/strowan_recipes/W46/eier_mit_hackfleisch">
+(15 Min, 1 Port., F: 35 g, K: 2 g, E: 41 g)
+<img src="eier_mit_hackfleisch/eier_mit_hackfleisch.png" alt="eier_mit_hackfleisch">
+</a>
