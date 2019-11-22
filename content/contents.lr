@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### W47
+<a href="/strowan_recipes/W47">
+<img src="W47/lasagne_ohne_nudeln.png" alt="lasagne_ohne_nudeln">
+</a>
+
 ### W46
 <a href="/strowan_recipes/W46">
 <img src="W46/frikadellen_mit_zwiebeln_und_rosenkohl/frikadellen_mit_zwiebeln_und_rosenkohl.png" alt="frikadellen_mit_zwiebeln_und_rosenkohl">
