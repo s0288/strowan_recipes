@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### 2020 W08
+<a href="/strowan_recipes/2008">
+<img src="2008/zucchini_bolognese/zucchini_bolognese.png" alt="zucchini_bolognese">
+</a>
+
 ### W47
 <a href="/strowan_recipes/W47">
 <img src="W47/lasagne_ohne_nudeln/lasagne_ohne_nudeln.png" alt="lasagne_ohne_nudeln">
@@ -54,13 +59,13 @@ left:
 <img src="W37/huehnerleber_mit_apfelsalat/huehnerleber_mit_apfelsalat.png" alt="huehnerleber_mit_apfelsalat">
 </a>
 
+---
+right:
+
 ### W36
 <a href="/strowan_recipes/W36">
 <img src="W36/gruene_sosse_mit_eiern/gruene_sosse_mit_eiern.png" alt="gruene_sosse_mit_eiern">
 </a>
-
----
-right:
 
 ### W34
 <a href="/strowan_recipes/W34">
