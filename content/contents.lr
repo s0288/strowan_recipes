@@ -4,6 +4,11 @@ _template: page_two_column.html
 ---
 left:
 
+### 2020 W16
+<a href="/strowan_recipes/2016">
+<img src="2016/keto_crepes/keto_crepes.png" alt="keto_crepes">
+</a>
+
 ### 2020 W15
 <a href="/strowan_recipes/2015">
 <img src="2015/keto_tiramisu/keto_tiramisu.png" alt="keto_tiramisu">
